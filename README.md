@@ -1,1 +1,1 @@
-# Carregar em "<> Code" para fazer download da pasta toda
+# Download da pasta: "<> Code" -> "Download ZIP"
