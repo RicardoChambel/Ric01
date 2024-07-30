@@ -1,0 +1,9 @@
+* {
+    -fx-font-size: 14px;
+    -fx-font-family: sans-serif;
+}
+
+#vbox{
+    -fx-padding: 10px;
+    -fx-background-color: transparent;
+}
