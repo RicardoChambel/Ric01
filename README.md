@@ -1,1 +1,1 @@
-# Download da pasta: "<> Code" -> "Download ZIP"
+# Download da pasta: "<> Code" -→ "Download ZIP"
